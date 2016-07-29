@@ -1,0 +1,9 @@
+Origin: Storm's Repository
+Label: Storm's Repository
+Suite: stable
+Version: 1.0
+Codename: stormzy
+Architectures: iphoneos-arm
+Components: main
+Description: Storm's Cydia Repository
+MD5Sum:
